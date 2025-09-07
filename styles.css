@@ -34,7 +34,7 @@ body {
 
 /* Add a slight shadow and rounded corners to each section for depth */
 section {
-  background: #fff; /* White background for sections */
+  background: #f8f8d9; /* White background for sections */
   border-radius: 12px; /* Rounded corners */
   box-shadow: 0 2px 8px rgba(46, 157, 247, 0.07); /* Soft blue shadow */
   margin: 24px 10px; /* Space between sections */
@@ -87,14 +87,14 @@ section {
 
 /* Add accent color to section headings */
 h2 {
-  color: #6fb9f5; /* Primary blue */
+  color: #033761; /* Primary blue */
   margin-top: 0;
   font-weight: bold;
 }
 
 /* Call-to-Action Section Styles */
 .call-to-action {
-  background-color: #FFC907; /* Primary Yellow */
+  background-color: #fad44b; /* Primary Yellow */
   color: #222;
   text-align: center;
   padding: 30px 20px;
@@ -128,7 +128,7 @@ h2 {
 
 /* Change button color when hovered */
 .donate-button:hover {
-  background-color: #159A48; /* Dark Green */
+  background-color: #1ac90a; /* Dark Green */
   transform: translateY(-2px) scale(1.04); /* Slight lift */
 }
 
